@@ -17,9 +17,9 @@ A. 괴짜가 아포칼립스에서 살아남는거요
 >
 > (그 캐릭터)
 > 
-> ![뀨](.뀨.png)
+> ![뀨](./뀨.png)
 > 
-> ![뀨2](.뀨2.png)
+> ![뀨2](./뀨2.png)
 >
 > > #### QnA. 오, 마션...., 그럼 이거 재미있나ㅇ... : 아뇨!, [재미없습니다.](https://mblogthumb-phinf.pstatic.net/MjAxNzA1MzBfNTEg/MDAxNDk2MTM1NjUwNTEy.y5vUSWEPnncb_pk6Ijzn4LXOzekNsCFbC8f7wd0PnT0g.VaLNxN379eJekXZo2ibFwdspFWq4bMLlBsapGr4z9Z8g.JPEG.anbs387921/2017-05-30_18-09-30.jpg?type=w800)
 > >
@@ -70,7 +70,3 @@ A. 괴짜가 아포칼립스에서 살아남는거요
 #### 웹툰
 
 png 파일을 [웹툰 FW](https://thebackend-community-bucket.s3.dualstack.ap-northeast-2.amazonaws.com/original/1X/bca356f59a658cfdd76cd708c7737c4df0af930f.png)에 넣을겁니다
-
-## 소계가 꺠져요
-
-제가 아직 사진을 안올려서 그래요. 곧 올려요.
