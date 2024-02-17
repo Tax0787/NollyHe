@@ -1,0 +1,6 @@
+[submodule "Novel"]
+	path = Novel
+	url = https://github.com/Tax0787/Novel
+[submodule "WebToon"]
+	path = WebToon
+	url = https://github.com/Tax0787/WebToon
