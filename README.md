@@ -1,6 +1,6 @@
 ![title](./title.png)
 
-# Q. [이건](https://tax0787.github.io/NollyHe) 뭐죠?
+# Q. [이건](https://github.com/Tax0787/NollyHe) 뭐죠?
 A. '놀리히' 연제처 리포지토리입니당 ㅎㅎ
 
 ## Q. 오..... 이거, 내용은 뭔가요?
