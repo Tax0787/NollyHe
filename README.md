@@ -29,9 +29,9 @@ A. 괴짜가 아포칼립스에서 살아남는거요
 
 ## 주소
 
-소설 : [https://tax0787.github.io/NollyHe/Novel]
+소설 : [https://tax0787.github.io/NollyHe-Novel](https://tax0787.github.io/NollyHe-Novel)
 
-웹툰 : [https://tax0787.github.io/NollyHe/WebToon]
+웹툰 : [https://tax0787.github.io/NollyHe-WebToon](https://tax0787.github.io/NollyHe-WebToon)
 
 ### POSTER
 
@@ -49,11 +49,11 @@ A. 괴짜가 아포칼립스에서 살아남는거요
 
 ![생성중...](https://thebackend-community-bucket.s3.dualstack.ap-northeast-2.amazonaws.com/original/1X/bca356f59a658cfdd76cd708c7737c4df0af930f.png)
 
-## 만든 원리
+## 리포지토리
 
-소설 : [https://github.com/tax0787/NollyHe-Novel]
+소설 : [https://github.com/tax0787/NollyHe-Novel](https://github.com/tax0787/NollyHe-Novel)
 
-웹툰 : [https://github.com/tax0787/NollyHe-WebToon]
+웹툰 : [https://github.com/tax0787/NollyHe-WebToon](https://github.com/tax0787/NollyHe-WebToon)
 
 ## 연재
 
