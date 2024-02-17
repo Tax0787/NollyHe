@@ -63,10 +63,10 @@ A. 괴짜가 아포칼립스에서 살아남는거요
 
 ### 어떻게 만드실지
 
-#### [소설](https://github.com/Tax0787/NollyHe-Novel)
+#### [소설](https://Tax0787.github.io/NollyHe-Novel)
 
 [포멧](https://thebackend-community-bucket.s3.dualstack.ap-northeast-2.amazonaws.com/original/1X/bca356f59a658cfdd76cd708c7737c4df0af930f.png)이랑 [편집기](https://thebackend-community-bucket.s3.dualstack.ap-northeast-2.amazonaws.com/original/1X/bca356f59a658cfdd76cd708c7737c4df0af930f.png)가 있습니다.
 
-#### [웹툰](https://github.com/Tax0787/NollyHe-WebToon)
+#### [웹툰](https://Tax0787.github.io/NollyHe-WebToon)
 
 png 파일을 [웹툰 FW](https://thebackend-community-bucket.s3.dualstack.ap-northeast-2.amazonaws.com/original/1X/bca356f59a658cfdd76cd708c7737c4df0af930f.png)에 넣을겁니다
