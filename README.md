@@ -21,7 +21,7 @@ A. 괴짜가 아포칼립스에서 살아남는거요
 > 
 > ![뀨2](./뀨2.png)
 >
-> > #### QnA. 오, 마션...., 그럼 이거 재미있나ㅇ... : 아뇨!, [재미없습니다.](https://mblogthumb-phinf.pstatic.net/MjAxNzA1MzBfNTEg/MDAxNDk2MTM1NjUwNTEy.y5vUSWEPnncb_pk6Ijzn4LXOzekNsCFbC8f7wd0PnT0g.VaLNxN379eJekXZo2ibFwdspFWq4bMLlBsapGr4z9Z8g.JPEG.anbs387921/2017-05-30_18-09-30.jpg?type=w800)
+> > #### QnA. 오, 마션...., 그럼 이거 재미있나ㅇ... : 아뇨!, [재미없습니다.](https://namu.wiki/w/%EC%9E%90%ED%95%99)
 > >
 > > TMI : ㅖ, 그냥 끄적였습니다. ㅖ.
 > >
